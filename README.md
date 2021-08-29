@@ -9,13 +9,17 @@
 - 👯 I’m looking to collaborate on front-end and soft skills teaching. 
 - 📫 How to reach me: ventas@antoniochagoya.com.mx 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools: 
 ### Languages 
+
 - PHP
 - Js
 - CSS
 - HTML
+
+
 ### Tools
+
 - Node
 - React
 - SASS/LESS/PUG
