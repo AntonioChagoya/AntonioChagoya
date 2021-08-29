@@ -10,12 +10,12 @@
 - 📫 How to reach me: ventas@antoniochagoya.com.mx 
 
 <h3 align="left">Languages and Tools:</h3>
-<h6> Languages </h6>
+### Languages 
 - PHP
 - Js
 - CSS
 - HTML
-<h6>Tools</h6>
+### Tools
 - Node
 - React
 - SASS/LESS/PUG
