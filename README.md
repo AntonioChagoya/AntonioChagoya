@@ -12,7 +12,6 @@
 ## Languages and Tools: 
 ### Languages 
 
-- PHP
 - Js
 - CSS
 - HTML
@@ -21,9 +20,9 @@
 ### Tools
 
 - Node
-- React
-- SASS/LESS/PUG
-- WordPress/Strapi
+- React/Next
+- SASS/LESS
+- Shopify/WordPress/Strapi
 - Adobe Xd
 
 ### Stats
@@ -35,4 +34,4 @@
  
 -----
 
-Last Edited on: 08/29/2021
+Last Edited on: 12/14/2021
