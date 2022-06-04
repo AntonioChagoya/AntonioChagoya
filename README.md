@@ -12,17 +12,21 @@
 ## Languages and Tools: 
 ### Languages 
 
-- Js
+#### Advanced
+- JavaScript
 - CSS
-- HTML
+- HTM
 
+#### Basic
+- MongoDB
+- MySQL
 
 ### Tools
 
-- Node
-- React/Next
-- SASS/LESS
-- Shopify/WordPress/Strapi
+- Node.Js | Nest.Js
+- React | Next.Js
+- SASS | LESS| Tailwind
+- CMS | Shopify/WordPress/Strapi
 - Adobe Xd
 
 ### Stats
@@ -33,5 +37,3 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AntonioChagoya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antoniorchagoya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AntonioRChagoya)  
  
 -----
-
-Last Edited on: 12/14/2021
