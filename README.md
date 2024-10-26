@@ -4,7 +4,7 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working at Divelement.
+- 🔭 Working at Tier4 Group.
 - 🐜 Running AntDevs, a group of professionals dedicated to build exeptional web products.
 - 📫 How to reach me: ventas@antoniochagoya.com.mx 
 
